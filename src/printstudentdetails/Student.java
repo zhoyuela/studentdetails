@@ -13,7 +13,6 @@ public class Student
 {
    private String name; // Encapsulation principle
    private int age;// getters /setters method
-   private int id;
 
     /**
      * @return the name
@@ -41,19 +40,5 @@ public class Student
      */
     public void setAge(int age) {
         this.age = age;
-    }
-
-    /**
-     * @return the id
-     */
-    public int getId() {
-        return id;
-    }
-
-    /**
-     * @param id the id to set
-     */
-    public void setId(int id) {
-        this.id = id;
     }
 }
