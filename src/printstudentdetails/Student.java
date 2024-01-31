@@ -7,6 +7,7 @@ package printstudentdetails;
 /**
  * model  - the student entity 
  * @author srinivsi
+ * date 24
  */
 public class Student 
 {
